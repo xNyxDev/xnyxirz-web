@@ -125,6 +125,7 @@ button:disabled {
 
 .warnimg {
     width: 200px;
+    pointer-events: none; 
 }
 
 .warn {
@@ -141,6 +142,7 @@ button:disabled {
     width: 200px;
     border-radius: 50%;
     border: solid 4px white;
+    pointer-events: none; 
 }
 
 /** Footer **/
